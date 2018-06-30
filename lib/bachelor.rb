@@ -50,5 +50,6 @@ def get_average_age_for_season(data, season)
   end
 
   (age / contestants).floor
+  
 
 end
